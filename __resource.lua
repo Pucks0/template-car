@@ -23,3 +23,7 @@ data_file 'VEHICLE_METADATA_FILE' 'data/vehicles.meta'
 
 
 --client_script { 'client/vehicle_name.lua' }
+
+
+
+yoyoyooyooyyoyooyoyoyy
